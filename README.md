@@ -1,14 +1,8 @@
 # Hi, I'm Mariem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
-<img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code&
-size=24&
-pause=1000&
-color=F78C6C&
-center=false&
-vCenter=true&
-width=600&
-lines=Machine+Learning+%26+Deep+Learning+Engineer;Audio+ML+%7C+NLP+%7C+End-to-End+ML;Building+Real-World+ML+Systems" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Deep+Learning+Engineer;Audio+ML+%7C+NLP+%7C+End-to-End+ML;Building+Real-World+ML+Systems" />
+</p>
 
 ---
 
