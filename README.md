@@ -63,7 +63,6 @@ I enjoy learning by building, experimenting, and turning ideas into working solu
 </p>
 
 ---
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F[Mariem17-17]%2F[Mariem17-17]&label=visitors&count_bg=%23007ec6)
 
 ⭐ *Feel free to explore my repositories or reach out, always happy to connect!*
 
